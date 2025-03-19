@@ -141,7 +141,9 @@ public partial class Scheduler<TItem> : BaseComponent, IAsyncDisposable
     {
         if ( SelectedView == SchedulerView.Week )
         {
-            state.SelectedDate = state.SelectedDate.StartOfPreviousWeek( FirstDayOfWeek );
+            state.SelectedDate = WeekNavigationMode == SchedulerWeekNavigationMode.FirstDayOfWeek
+                ? state.SelectedDate.StartOfPreviousWeek( FirstDayOfWeek )
+                : state.SelectedDate.AddDays( -7 );
         }
         else
         {
@@ -161,7 +163,9 @@ public partial class Scheduler<TItem> : BaseComponent, IAsyncDisposable
     {
         if ( SelectedView == SchedulerView.Week )
         {
-            state.SelectedDate = state.SelectedDate.StartOfNextWeek( FirstDayOfWeek );
+            state.SelectedDate = WeekNavigationMode == SchedulerWeekNavigationMode.FirstDayOfWeek
+                ? state.SelectedDate.StartOfNextWeek( FirstDayOfWeek )
+                : state.SelectedDate.AddDays( 7 );
         }
         else
         {
@@ -306,6 +310,11 @@ public partial class Scheduler<TItem> : BaseComponent, IAsyncDisposable
     /// The first day of the week. Determines the first day of the week that is displayed in the scheduler.
     /// </summary>
     [Parameter] public DayOfWeek FirstDayOfWeek { get; set; } = DayOfWeek.Sunday;
+
+    /// <summary>
+    /// The mode of the week navigation. Determines how the week navigation is handled.
+    /// </summary>
+    [Parameter] public SchedulerWeekNavigationMode WeekNavigationMode { get; set; } = SchedulerWeekNavigationMode.FirstDayOfWeek;
 
     /// <summary>
     /// The currently selected view. Determines the view that is displayed in the scheduler.
