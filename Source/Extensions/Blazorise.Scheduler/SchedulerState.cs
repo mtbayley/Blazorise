@@ -11,7 +11,7 @@ namespace Blazorise.Scheduler;
 public record SchedulerState
 {
     /// <summary>
-    /// Gets or sets the date that is currently selected in the scheduler.
+    /// Gets or sets the date that is currently selected in the scheduler. Defaults to today.
     /// </summary>
     public DateOnly SelectedDate { get; set; } = DateOnly.FromDateTime( DateTime.Today );
 

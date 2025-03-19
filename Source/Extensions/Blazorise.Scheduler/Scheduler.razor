@@ -9,11 +9,11 @@
             }
 
             <_SchedulerViews TItem="TItem">
-                @if ( ShowDayView )
+                @if ( ShowingDayView )
                 {
                     <_SchedulerDayView TItem="TItem" StartTime="@schedulerDayView.StartTime" EndTime="@schedulerDayView.EndTime" SelectedDate="@state.SelectedDate" />
                 }
-                @if ( ShowWeekView )
+                @if ( ShowingWeekView )
                 {
                     <_SchedulerWeekView TItem="TItem" StartTime="@schedulerWeekView.StartTime" EndTime="@schedulerWeekView.EndTime" SelectedDate="@state.SelectedDate" FirstDayOfWeek="@FirstDayOfWeek" />
                 }
