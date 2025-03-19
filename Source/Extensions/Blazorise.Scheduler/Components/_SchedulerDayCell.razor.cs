@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Components.Web;
 
 namespace Blazorise.Scheduler.Components;
 
-public partial class _SchedulerDay<TItem>
+public partial class _SchedulerDayCell<TItem>
 {
     #region Members
 
