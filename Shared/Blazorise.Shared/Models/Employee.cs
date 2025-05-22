@@ -52,6 +52,7 @@ public class Employee
 
     [Display( Name = "Childrens" )]
     public int? Childrens { get; set; }
+    public int ChildrensNotNull { get; set; } = 0;
 
     [Display( Name = "Gender" )]
     public string Gender { get; set; }
