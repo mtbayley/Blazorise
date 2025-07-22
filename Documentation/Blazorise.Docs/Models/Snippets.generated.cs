@@ -5464,50 +5464,50 @@ Proin volutpat, sapien ut facilisis ultricies, eros purus blandit velit, at ultr
 	.AddBootstrapProviders()
 	.AddEmptyIconProvider();";
 
-        public const string AntDesignScriptsExample = @"<script src=""_content/Blazorise.AntDesign/modal.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise.AntDesign/tooltip.js?v=1.7.7.0"" type=""module""></script>";
+        public const string AntDesignScriptsExample = @"<script src=""_content/Blazorise.AntDesign/modal.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise.AntDesign/tooltip.js?v=1.8.0.0"" type=""module""></script>";
 
-        public const string Bootstrap5ScriptsExample = @"<script src=""_content/Blazorise.Bootstrap5/modal.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise.Bootstrap5/tooltip.js?v=1.7.7.0"" type=""module""></script>";
+        public const string Bootstrap5ScriptsExample = @"<script src=""_content/Blazorise.Bootstrap5/modal.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise.Bootstrap5/tooltip.js?v=1.8.0.0"" type=""module""></script>";
 
-        public const string BootstrapScriptsExample = @"<script src=""_content/Blazorise.Bootstrap/modal.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise.Bootstrap/tooltip.js?v=1.7.7.0"" type=""module""></script>";
+        public const string BootstrapScriptsExample = @"<script src=""_content/Blazorise.Bootstrap/modal.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise.Bootstrap/tooltip.js?v=1.8.0.0"" type=""module""></script>";
 
-        public const string BulmaScriptsExample = @"<script src=""_content/Blazorise.Bulma/modal.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise.Bulma/tooltip.js?v=1.7.7.0"" type=""module""></script>";
+        public const string BulmaScriptsExample = @"<script src=""_content/Blazorise.Bulma/modal.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise.Bulma/tooltip.js?v=1.8.0.0"" type=""module""></script>";
 
         public const string ButtonJavascriptMockTestingExample = @"JSInterop.AddBlazoriseButton();";
 
-        public const string ChartsScriptsExample = @"<script src=""_content/Blazorise.Charts/charts.js?v=1.7.7.0"" type=""module""></script>";
+        public const string ChartsScriptsExample = @"<script src=""_content/Blazorise.Charts/charts.js?v=1.8.0.0"" type=""module""></script>";
 
-        public const string ChartsStreamingScriptsExample = @"<script src=""_content/Blazorise.Charts.Streaming/charts.streaming.js?v=1.7.7.0"" type=""module""></script>";
+        public const string ChartsStreamingScriptsExample = @"<script src=""_content/Blazorise.Charts.Streaming/charts.streaming.js?v=1.8.0.0"" type=""module""></script>";
 
-        public const string ChartsTrendlineScriptsExample = @"<script src=""_content/Blazorise.Charts.Trendline/charts.trendline.js?v=1.7.7.0"" type=""module""></script>";
+        public const string ChartsTrendlineScriptsExample = @"<script src=""_content/Blazorise.Charts.Trendline/charts.trendline.js?v=1.8.0.0"" type=""module""></script>";
 
-        public const string CommonScriptsExample = @"<script src=""_content/Blazorise/breakpoint.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/button.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/closable.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/colorPicker.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/datePicker.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/dragDrop.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/dropdown.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/fileEdit.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/filePicker.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/inputMask.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/io.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/memoEdit.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/numericPicker.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/observer.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/table.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/textEdit.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/theme.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/timePicker.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/tooltip.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise/utilities.js?v=1.7.7.0"" type=""module""></script>";
+        public const string CommonScriptsExample = @"<script src=""_content/Blazorise/breakpoint.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/button.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/closable.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/colorPicker.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/datePicker.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/dragDrop.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/dropdown.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/fileEdit.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/filePicker.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/inputMask.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/io.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/memoEdit.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/numericPicker.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/observer.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/table.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/textEdit.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/theme.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/timePicker.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/tooltip.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise/utilities.js?v=1.8.0.0"" type=""module""></script>";
 
         public const string ComponentsImportExample = @"@using Blazorise.Components";
 
-        public const string DatagridScriptsExample = @"<script src=""_content/Blazorise.DataGrid/datagrid.js?v=1.7.7.0"" type=""module""></script>";
+        public const string DatagridScriptsExample = @"<script src=""_content/Blazorise.DataGrid/datagrid.js?v=1.8.0.0"" type=""module""></script>";
 
         public const string EmptyProviderExample = @"public void ConfigureServices( IServiceCollection services )
 {
@@ -5515,15 +5515,15 @@ Proin volutpat, sapien ut facilisis ultricies, eros purus blandit velit, at ultr
     .AddEmptyProviders();
 }";
 
-        public const string MarkdownScriptsExample = @"<script src=""_content/Blazorise.Markdown/markdown.js?v=1.7.7.0"" type=""module""></script>";
+        public const string MarkdownScriptsExample = @"<script src=""_content/Blazorise.Markdown/markdown.js?v=1.8.0.0"" type=""module""></script>";
 
-        public const string MaterialScriptsExample = @"<script src=""_content/Blazorise.Material/modal.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise.Material/tooltip.js?v=1.7.7.0"" type=""module""></script>";
+        public const string MaterialScriptsExample = @"<script src=""_content/Blazorise.Material/modal.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise.Material/tooltip.js?v=1.8.0.0"" type=""module""></script>";
 
-        public const string RichTextEditScriptsExample = @"<script src=""_content/Blazorise.RichTextEdit/richtextedit.js?v=1.7.7.0"" type=""module""></script>";
+        public const string RichTextEditScriptsExample = @"<script src=""_content/Blazorise.RichTextEdit/richtextedit.js?v=1.8.0.0"" type=""module""></script>";
 
-        public const string TailwindScriptsExample = @"<script src=""_content/Blazorise.Tailwind/modal.js?v=1.7.7.0"" type=""module""></script>
-<script src=""_content/Blazorise.Tailwind/tooltip.js?v=1.7.7.0"" type=""module""></script>";
+        public const string TailwindScriptsExample = @"<script src=""_content/Blazorise.Tailwind/modal.js?v=1.8.0.0"" type=""module""></script>
+<script src=""_content/Blazorise.Tailwind/tooltip.js?v=1.8.0.0"" type=""module""></script>";
 
         public const string TemplatesCLIUsageExample = @"dotnet new blazorise -n MyNewBlazoriseApp -p Bootstrap5 -bh Server -ut false -f net7.0";
 
@@ -5533,7 +5533,7 @@ Proin volutpat, sapien ut facilisis ultricies, eros purus blandit velit, at ultr
 
         public const string TestingbUnitNugetExample = @"Install-Package Blazorise.Tests.bUnit";
 
-        public const string VideoScriptsExample = @"<script src=""_content/Blazorise.Video/video.js?v=1.7.7.0"" type=""module""></script>";
+        public const string VideoScriptsExample = @"<script src=""_content/Blazorise.Video/video.js?v=1.8.0.0"" type=""module""></script>";
 
         public const string AnimateExample = @"<Field>
     <Select TValue=""string"" SelectedValueChanged=""@OnSelectedAnimationChanged"">
@@ -5601,7 +5601,7 @@ Proin volutpat, sapien ut facilisis ultricies, eros purus blandit velit, at ultr
 
         public const string AnimateNugetInstallExample = @"Install-Package Blazorise.Animate";
 
-        public const string AnimateResourcesExample = @"<script src=""_content/Blazorise.Animate/blazorise.animate.js?v=1.7.7.0""></script>";
+        public const string AnimateResourcesExample = @"<script src=""_content/Blazorise.Animate/blazorise.animate.js?v=1.8.0.0""></script>";
 
         public const string AutocompleteExample = @"<Autocomplete TItem=""Country""
               TValue=""string""
@@ -10016,7 +10016,7 @@ services.AddValidatorsFromAssembly( typeof( App ).Assembly );";
 
         public const string BootstrapIconsCSSExample = @"<link rel=""stylesheet"" href=""https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"">";
 
-        public const string FluentIconsCSSExample = @"<link href=""_content/Blazorise.Icons.FluentUI/FluentSystemIcons-Resizable.css?v=1.7.7.0"" rel=""stylesheet"" />";
+        public const string FluentIconsCSSExample = @"<link href=""_content/Blazorise.Icons.FluentUI/FluentSystemIcons-Resizable.css?v=1.8.0.0"" rel=""stylesheet"" />";
 
         public const string FontAwesomeCSSExample = @"<link href=""_content/Blazorise.Icons.FontAwesome/v6/css/all.min.css"" rel=""stylesheet"">";
 
@@ -10723,6 +10723,365 @@ Install-Package Blazorise.Icons.Material";
 builder.Services
 	.AddBlazorise()
 	.AddBlazoriseRouterTabs();";
+
+        public const string SchedulerBasicExample = @"<Scheduler TItem=""Appointment"" @bind-Date=""@selectedDate""
+           Data=""@Appointments""
+           @bind-SelectedView=""@selectedView"">
+    <SchedulerToolbar />
+    <SchedulerViews>
+        <SchedulerWeekView StartTime=""@startTime"" EndTime=""@endTime"" WorkDayStart=""@workDayStart"" WorkDayEnd=""@workDayEnd"" />
+    </SchedulerViews>
+</Scheduler>
+@code {
+    private DateOnly selectedDate = DateOnly.FromDateTime( DateTime.Today );
+    private SchedulerView selectedView = SchedulerView.Week;
+    private static DateTime today10AM = DateTime.Today.AddHours( 10 );
+    private TimeOnly startTime = new TimeOnly( 7, 0 );
+    private TimeOnly endTime = new TimeOnly( 17, 0 );
+    private TimeOnly workDayStart = new TimeOnly( 8, 0 );
+    private TimeOnly workDayEnd = new TimeOnly( 16, 0 );
+
+    public class Appointment
+    {
+        public Appointment()
+        {
+        }
+
+        public Appointment( string title, string description, DateTime start, DateTime end, bool allDay = false )
+        {
+            Id = Guid.NewGuid().ToString();
+            Title = title;
+            Description = description;
+            Start = start;
+            End = end;
+            AllDay = allDay;
+        }
+
+        public string Id { get; set; }
+
+        public string Title { get; set; }
+
+        public string Description { get; set; }
+
+        public DateTime Start { get; set; }
+
+        public DateTime End { get; set; }
+
+        public bool AllDay { get; set; }
+
+        public string RecurrenceRule { get; set; }
+    }
+
+    List<Appointment> Appointments = new List<Appointment>
+    {
+        new Appointment( ""Meeting with the CEO"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Some other meeting"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Lunch with the team"", ""Discussing the new project"", today10AM.AddDays(-10).AddHours(2), today10AM.AddDays(-10).AddHours(3))
+        {
+            RecurrenceRule = ""FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;INTERVAL=2;COUNT=3""
+        },
+    };
+}";
+
+        public const string SchedulerDraggableExample = @"<Scheduler TItem=""Appointment"" @bind-Date=""@selectedDate""
+           Data=""@Appointments""
+           @bind-SelectedView=""@selectedView""
+           Editable
+           Draggable>
+    <SchedulerToolbar />
+    <SchedulerViews>
+        <SchedulerWeekView StartTime=""@startTime"" EndTime=""@endTime"" WorkDayStart=""@workDayStart"" WorkDayEnd=""@workDayEnd"" />
+    </SchedulerViews>
+</Scheduler>
+@code {
+    private DateOnly selectedDate = DateOnly.FromDateTime( DateTime.Today );
+    private SchedulerView selectedView = SchedulerView.Week;
+    private static DateTime today10AM = DateTime.Today.AddHours( 10 );
+    private TimeOnly startTime = new TimeOnly( 7, 0 );
+    private TimeOnly endTime = new TimeOnly( 17, 0 );
+    private TimeOnly workDayStart = new TimeOnly( 8, 0 );
+    private TimeOnly workDayEnd = new TimeOnly( 16, 0 );
+
+    public class Appointment
+    {
+        public Appointment()
+        {
+        }
+
+        public Appointment( string title, string description, DateTime start, DateTime end, bool allDay = false )
+        {
+            Id = Guid.NewGuid().ToString();
+            Title = title;
+            Description = description;
+            Start = start;
+            End = end;
+            AllDay = allDay;
+        }
+
+        public string Id { get; set; }
+
+        public string Title { get; set; }
+
+        public string Description { get; set; }
+
+        public DateTime Start { get; set; }
+
+        public DateTime End { get; set; }
+
+        public bool AllDay { get; set; }
+
+        public string RecurrenceRule { get; set; }
+    }
+
+    List<Appointment> Appointments = new List<Appointment>
+    {
+        new Appointment( ""Meeting with the CEO"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Some other meeting"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Lunch with the team"", ""Discussing the new project"", today10AM.AddDays(-10).AddHours(2), today10AM.AddDays(-10).AddHours(3))
+        {
+            RecurrenceRule = ""FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;INTERVAL=2;COUNT=3""
+        },
+    };
+}";
+
+        public const string SchedulerEditableExample = @"<Scheduler TItem=""Appointment"" @bind-Date=""@selectedDate""
+           Data=""@Appointments""
+           @bind-SelectedView=""@selectedView""
+           Editable>
+    <SchedulerToolbar />
+    <SchedulerViews>
+        <SchedulerWeekView StartTime=""@startTime"" EndTime=""@endTime"" WorkDayStart=""@workDayStart"" WorkDayEnd=""@workDayEnd"" />
+    </SchedulerViews>
+</Scheduler>
+@code {
+    private DateOnly selectedDate = DateOnly.FromDateTime( DateTime.Today );
+    private SchedulerView selectedView = SchedulerView.Week;
+    private static DateTime today10AM = DateTime.Today.AddHours( 10 );
+    private TimeOnly startTime = new TimeOnly( 7, 0 );
+    private TimeOnly endTime = new TimeOnly( 17, 0 );
+    private TimeOnly workDayStart = new TimeOnly( 8, 0 );
+    private TimeOnly workDayEnd = new TimeOnly( 16, 0 );
+
+    public class Appointment
+    {
+        public Appointment()
+        {
+        }
+
+        public Appointment( string title, string description, DateTime start, DateTime end, bool allDay = false )
+        {
+            Id = Guid.NewGuid().ToString();
+            Title = title;
+            Description = description;
+            Start = start;
+            End = end;
+            AllDay = allDay;
+        }
+
+        public string Id { get; set; }
+
+        public string Title { get; set; }
+
+        public string Description { get; set; }
+
+        public DateTime Start { get; set; }
+
+        public DateTime End { get; set; }
+
+        public bool AllDay { get; set; }
+
+        public string RecurrenceRule { get; set; }
+    }
+
+    List<Appointment> Appointments = new List<Appointment>
+    {
+        new Appointment( ""Meeting with the CEO"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Some other meeting"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Lunch with the team"", ""Discussing the new project"", today10AM.AddDays(-10).AddHours(2), today10AM.AddDays(-10).AddHours(3))
+        {
+            RecurrenceRule = ""FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;INTERVAL=2;COUNT=3""
+        },
+    };
+}";
+
+        public const string SchedulerFixedSizeExample = @"<Scheduler TItem=""Appointment"" Data=""@Appointments"" SelectedView=""SchedulerView.Week"">
+    <SchedulerToolbar />
+    <SchedulerViews>
+        <SchedulerWeekView ViewHeight=""500"" />
+    </SchedulerViews>
+</Scheduler>
+@code {
+    private static DateTime today10AM = DateTime.Today.AddHours( 10 );
+
+    public class Appointment
+    {
+        public Appointment()
+        {
+        }
+
+        public Appointment( string title, string description, DateTime start, DateTime end, bool allDay = false )
+        {
+            Id = Guid.NewGuid().ToString();
+            Title = title;
+            Description = description;
+            Start = start;
+            End = end;
+            AllDay = allDay;
+        }
+
+        public string Id { get; set; }
+
+        public string Title { get; set; }
+
+        public string Description { get; set; }
+
+        public DateTime Start { get; set; }
+
+        public DateTime End { get; set; }
+
+        public bool AllDay { get; set; }
+
+        public string RecurrenceRule { get; set; }
+    }
+
+    List<Appointment> Appointments = new List<Appointment>
+    {
+        new Appointment( ""Meeting with the CEO"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Some other meeting"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Lunch with the team"", ""Discussing the new project"", today10AM.AddDays(-10).AddHours(2), today10AM.AddDays(-10).AddHours(3))
+        {
+            RecurrenceRule = ""FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;INTERVAL=2;COUNT=3""
+        },
+    };
+}";
+
+        public const string SchedulerFullExample = @"<Scheduler TItem=""Appointment"" @bind-Date=""@selectedDate""
+           Data=""@Appointments""
+           @bind-SelectedView=""@selectedView""
+           Editable
+           Draggable
+           SlotSelectionMode=""SchedulerSlotSelectionMode.Mouse"">
+    <SchedulerToolbar />
+    <SchedulerViews>
+        <SchedulerDayView StartTime=""@startTime"" EndTime=""@endTime"" WorkDayStart=""@workDayStart"" WorkDayEnd=""@workDayEnd"" />
+        <SchedulerWeekView StartTime=""@startTime"" EndTime=""@endTime"" WorkDayStart=""@workDayStart"" WorkDayEnd=""@workDayEnd"" />
+        <SchedulerWorkWeekView StartTime=""@startTime"" EndTime=""@endTime"" WorkDayStart=""@workDayStart"" WorkDayEnd=""@workDayEnd"" />
+        <SchedulerMonthView StartTime=""@startTime"" EndTime=""@endTime"" WorkDayStart=""@workDayStart"" WorkDayEnd=""@workDayEnd"" />
+    </SchedulerViews>
+</Scheduler>
+@code {
+    private DateOnly selectedDate = DateOnly.FromDateTime( DateTime.Today );
+    private SchedulerView selectedView = SchedulerView.Week;
+    private static DateTime today10AM = DateTime.Today.AddHours( 10 );
+    private TimeOnly startTime = new TimeOnly( 7, 0 );
+    private TimeOnly endTime = new TimeOnly( 17, 0 );
+    private TimeOnly workDayStart = new TimeOnly( 8, 0 );
+    private TimeOnly workDayEnd = new TimeOnly( 16, 0 );
+
+    public class Appointment
+    {
+        public Appointment()
+        {
+        }
+
+        public Appointment( string title, string description, DateTime start, DateTime end, bool allDay = false )
+        {
+            Id = Guid.NewGuid().ToString();
+            Title = title;
+            Description = description;
+            Start = start;
+            End = end;
+            AllDay = allDay;
+        }
+
+        public string Id { get; set; }
+
+        public string Title { get; set; }
+
+        public string Description { get; set; }
+
+        public DateTime Start { get; set; }
+
+        public DateTime End { get; set; }
+
+        public bool AllDay { get; set; }
+
+        public string RecurrenceRule { get; set; }
+    }
+
+    List<Appointment> Appointments = new List<Appointment>
+    {
+        new Appointment( ""Meeting with the CEO"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Some other meeting"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Lunch with the team"", ""Discussing the new project"", today10AM.AddDays(-10).AddHours(2), today10AM.AddDays(-10).AddHours(3))
+        {
+            RecurrenceRule = ""FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;INTERVAL=2;COUNT=3""
+        },
+    };
+}";
+
+        public const string SchedulerImportsExample = @"@using Blazorise.Scheduler";
+
+        public const string SchedulerNugetInstallExample = @"Install-Package Blazorise.Scheduler";
+
+        public const string SchedulerSelectableExample = @"<Scheduler TItem=""Appointment"" @bind-Date=""@selectedDate"" Data=""@Appointments"" SelectedView=""SchedulerView.Week""
+           Editable
+           SlotSelectionMode=""SchedulerSlotSelectionMode.Mouse"">
+    <SchedulerToolbar />
+    <SchedulerViews>
+        <SchedulerWeekView StartTime=""@startTime"" EndTime=""@endTime"" WorkDayStart=""@workDayStart"" WorkDayEnd=""@workDayEnd"" />
+    </SchedulerViews>
+</Scheduler>
+@code {
+    private DateOnly selectedDate = DateOnly.FromDateTime( DateTime.Today );
+    private SchedulerView selectedView = SchedulerView.Week;
+    private static DateTime today10AM = DateTime.Today.AddHours( 10 );
+    private TimeOnly startTime = new TimeOnly( 7, 0 );
+    private TimeOnly endTime = new TimeOnly( 17, 0 );
+    private TimeOnly workDayStart = new TimeOnly( 8, 0 );
+    private TimeOnly workDayEnd = new TimeOnly( 16, 0 );
+
+    public class Appointment
+    {
+        public Appointment()
+        {
+        }
+
+        public Appointment( string title, string description, DateTime start, DateTime end, bool allDay = false )
+        {
+            Id = Guid.NewGuid().ToString();
+            Title = title;
+            Description = description;
+            Start = start;
+            End = end;
+            AllDay = allDay;
+        }
+
+        public string Id { get; set; }
+
+        public string Title { get; set; }
+
+        public string Description { get; set; }
+
+        public DateTime Start { get; set; }
+
+        public DateTime End { get; set; }
+
+        public bool AllDay { get; set; }
+
+        public string RecurrenceRule { get; set; }
+    }
+
+    List<Appointment> Appointments = new List<Appointment>
+    {
+        new Appointment( ""Meeting with the CEO"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Some other meeting"", ""Regarding the new margeting strategy"", today10AM, today10AM.AddHours(1) ),
+        new Appointment( ""Lunch with the team"", ""Discussing the new project"", today10AM.AddDays(-10).AddHours(2), today10AM.AddDays(-10).AddHours(3))
+        {
+            RecurrenceRule = ""FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;INTERVAL=2;COUNT=3""
+        },
+    };
+}";
 
         public const string SelectListExample = @"<SelectList TItem=""MyCountryModel""
             TValue=""int""
@@ -11657,10 +12016,10 @@ builder.Services
     .AddFontAwesomeIcons();";
 
         public const string AntDesignGuideSourceFilesExample = @"<link rel=""stylesheet"" href=""https://cdnjs.cloudflare.com/ajax/libs/antd/4.24.15/antd.min.css"" integrity=""sha512-Ac6zlwN6S+uQSinFAcV27Gd/TtKEDt7XWXn2xWO4Xi9dTbbpT9/vJb+VT5af6nZywrgBD3qUFTb5y1VN4YD94Q=="" crossorigin=""anonymous"" referrerpolicy=""no-referrer"" />
-<link href=""_content/Blazorise.Icons.FontAwesome/v6/css/all.min.css?v=1.7.7.0"" rel=""stylesheet"">
+<link href=""_content/Blazorise.Icons.FontAwesome/v6/css/all.min.css?v=1.8.0.0"" rel=""stylesheet"">
 
-<link href=""_content/Blazorise/blazorise.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.AntDesign/blazorise.antdesign.css?v=1.7.7.0"" rel=""stylesheet"" />";
+<link href=""_content/Blazorise/blazorise.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.AntDesign/blazorise.antdesign.css?v=1.8.0.0"" rel=""stylesheet"" />";
 
         public const string AntDesignGuideUsingExample = @"@using Blazorise";
 
@@ -11683,8 +12042,8 @@ builder.Services
         public const string BootstrapGuideSourceFilesExample = @"<link rel=""stylesheet"" href=""https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"" integrity=""sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn"" crossorigin=""anonymous"">
 <link href=""_content/Blazorise.Icons.FontAwesome/v6/css/all.min.css"" rel=""stylesheet"">
 
-<link href=""_content/Blazorise/blazorise.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.Bootstrap/blazorise.bootstrap.css?v=1.7.7.0"" rel=""stylesheet"" />";
+<link href=""_content/Blazorise/blazorise.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.Bootstrap/blazorise.bootstrap.css?v=1.8.0.0"" rel=""stylesheet"" />";
 
         public const string BootstrapGuideUsingExample = @"@using Blazorise";
 
@@ -11707,8 +12066,8 @@ builder.Services
         public const string Bootstrap5GuideSourceFilesExample = @"<link href=""https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"" rel=""stylesheet"" integrity=""sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"" crossorigin=""anonymous"">
 <link href=""_content/Blazorise.Icons.FontAwesome/v6/css/all.min.css"" rel=""stylesheet"">
 
-<link href=""_content/Blazorise/blazorise.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.Bootstrap5/blazorise.bootstrap5.css?v=1.7.7.0"" rel=""stylesheet"" />";
+<link href=""_content/Blazorise/blazorise.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.Bootstrap5/blazorise.bootstrap5.css?v=1.8.0.0"" rel=""stylesheet"" />";
 
         public const string Bootstrap5GuideUsingExample = @"@using Blazorise";
 
@@ -11731,8 +12090,8 @@ builder.Services
         public const string BulmaGuideSourceFilesExample = @"<link rel=""stylesheet"" href=""https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css"" />
 <link href=""_content/Blazorise.Icons.FontAwesome/v6/css/all.min.css"" rel=""stylesheet"">
 
-<link href=""_content/Blazorise/blazorise.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.Bulma/blazorise.bulma.css?v=1.7.7.0"" rel=""stylesheet"" />";
+<link href=""_content/Blazorise/blazorise.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.Bulma/blazorise.bulma.css?v=1.8.0.0"" rel=""stylesheet"" />";
 
         public const string BulmaGuideUsingExample = @"@using Blazorise";
 
@@ -11749,11 +12108,11 @@ builder.Services
     .AddFluentUI2Providers()
     .AddFluentUIIcons();";
 
-        public const string FluentUI2GuideSourceFiles1Example = @"<link href=""_content/Blazorise.Icons.FluentUI/FluentSystemIcons-Resizable.css?v=1.7.7.0"" rel=""stylesheet"" />
+        public const string FluentUI2GuideSourceFiles1Example = @"<link href=""_content/Blazorise.Icons.FluentUI/FluentSystemIcons-Resizable.css?v=1.8.0.0"" rel=""stylesheet"" />
 
-<link href=""_content/Blazorise/blazorise.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.FluentUI2/reboot.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.FluentUI2/blazorise.fluentui2.css?v=1.7.7.0"" rel=""stylesheet"" />";
+<link href=""_content/Blazorise/blazorise.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.FluentUI2/reboot.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.FluentUI2/blazorise.fluentui2.css?v=1.8.0.0"" rel=""stylesheet"" />";
 
         public const string FluentUI2GuideUsingExample = @"@using Blazorise";
 
@@ -11791,9 +12150,9 @@ builder.Services
 <link href=""https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i|Roboto+Mono:300,400,700|Roboto+Slab:300,400,700"" rel=""stylesheet"">
 <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
 
-<link href=""_content/Blazorise/blazorise.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.Material/blazorise.material.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.Icons.Material/blazorise.icons.material.css?v=1.7.7.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise/blazorise.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.Material/blazorise.material.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.Icons.Material/blazorise.icons.material.css?v=1.8.0.0"" rel=""stylesheet"" />
 
 <!-- Optional JavaScript -->
 <!-- These are the standard js dependencies this provider typically dependes upon, but Blazorise deems these as optional as Blazorise Components should work correctly without these  -->
@@ -11804,7 +12163,7 @@ builder.Services
 
 <!-- Mandatory JavaScript -->
 <script src=""js/material.min.js""></script>
-<script src=""_content/Blazorise.Material/blazorise.material.js?v=1.7.7.0""></script>";
+<script src=""_content/Blazorise.Material/blazorise.material.js?v=1.8.0.0""></script>";
 
         public const string MaterialGuideUsingExample = @"@using Blazorise";
 
@@ -11826,10 +12185,10 @@ builder.Services
 <link href=""_content/Blazorise.Icons.FontAwesome/v6/css/all.min.css"" rel=""stylesheet"">
 
 <script src=""https://cdn.tailwindcss.com""></script>
-<script src=""_content/Blazorise.Tailwind/blazorise.tailwind.config.js?v=1.7.7.0""></script>
+<script src=""_content/Blazorise.Tailwind/blazorise.tailwind.config.js?v=1.8.0.0""></script>
 
-<link href=""_content/Blazorise/blazorise.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.Tailwind/blazorise.tailwind.css?v=1.7.7.0"" rel=""stylesheet"" />";
+<link href=""_content/Blazorise/blazorise.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.Tailwind/blazorise.tailwind.css?v=1.8.0.0"" rel=""stylesheet"" />";
 
         public const string TailwindGuideSourceFiles2Example = @"<script src=""https://unpkg.com/flowbite@1.5.4/dist/flowbite.js""></script>";
 
@@ -11837,8 +12196,8 @@ builder.Services
 <link rel=""stylesheet"" href=""https://unpkg.com/flowbite@1.5.4/dist/flowbite.min.css"" />
 <link href=""_content/Blazorise.Icons.FontAwesome/v6/css/all.min.css"" rel=""stylesheet"">
 
-<link href=""_content/Blazorise/blazorise.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.Tailwind/blazorise.tailwind.prod.css?v=1.7.7.0"" rel=""stylesheet"" />";
+<link href=""_content/Blazorise/blazorise.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.Tailwind/blazorise.tailwind.prod.css?v=1.8.0.0"" rel=""stylesheet"" />";
 
         public const string TailwindGuideUsingExample = @"@using Blazorise";
 
@@ -12744,12 +13103,13 @@ builder.Services
 
     Task ShowWarningNotification()
     {
-        return NotificationService.Warning( ""This is a simple notification message!"", ""Hello"", options =>
+        return NotificationService.Warning( ""Are you sure you want to remove the selected item!"", ""Removal"", options =>
         {
             options.IntervalBeforeClose = 500;
             options.Multiline = true;
-            options.OkButtonIcon = true;
-            options.OkButtonText = ""OK"";
+            options.ShowOkButton = true;
+            options.OkButtonIcon = IconName.Delete;
+            options.OkButtonText = ""Remove"";
         } );
     }
 }";
@@ -12835,12 +13195,12 @@ builder.Services
 
         public const string ComponentsNugetInstallExample = @"Install-Package Blazorise.Components";
 
-        public const string _0941CodeExample = @"<link href=""_content/Blazorise/blazorise.css?v=1.7.7.0"" rel=""stylesheet"" />
-<link href=""_content/Blazorise.Bootstrap/blazorise.bootstrap.css?v=1.7.7.0"" rel=""stylesheet"" />
+        public const string _0941CodeExample = @"<link href=""_content/Blazorise/blazorise.css?v=1.8.0.0"" rel=""stylesheet"" />
+<link href=""_content/Blazorise.Bootstrap/blazorise.bootstrap.css?v=1.8.0.0"" rel=""stylesheet"" />
 
-<script src=""_content/Blazorise/blazorise.js?v=1.7.7.0""></script>
-<script src=""_content/Blazorise.Bootstrap/blazorise.bootstrap.js?v=1.7.7.0""></script>
-<script src=""_content/Blazorise.Bootstrap/blazorise.bootstrap.js?v=1.7.7.0""></script>";
+<script src=""_content/Blazorise/blazorise.js?v=1.8.0.0""></script>
+<script src=""_content/Blazorise.Bootstrap/blazorise.bootstrap.js?v=1.8.0.0""></script>
+<script src=""_content/Blazorise.Bootstrap/blazorise.bootstrap.js?v=1.8.0.0""></script>";
 
     }
 }
